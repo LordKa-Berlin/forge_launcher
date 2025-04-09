@@ -84,3 +84,4 @@ Design & Development: GUI automation & SD integration tools
 ---
 
 ## 📜 License
+This project is released under the Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license.
