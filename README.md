@@ -1,7 +1,5 @@
 # 🔥 Forge Launcher v1.8 – designed by LordKa
 
-![Forge Launcher Screenshot](screenshots\mainscreen.png)  
-*Example screenshot – replace with actual Forge Launcher view*
 
 ## 📋 Description
 
