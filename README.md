@@ -1,4 +1,4 @@
-# 🔥 Forge Launcher v1.8 – designed by LordKa
+# 🔥 Forge Launcher
 
 
 ## 📋 Description
