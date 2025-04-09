@@ -47,8 +47,6 @@ pip install tkinterdnd2 Pillow screeninfo send2trash piexif psutil pystray
 
 ## 🖼 UI Preview
 
-⚠️ *(Insert your actual ForgeLauncher screenshot below this line)*
-
 ![ForgeLauncher GUI](screenshots/mainscreen.png)
 
 ---
