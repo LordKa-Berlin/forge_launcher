@@ -7,7 +7,7 @@ The **Forge Launcher** is a GUI-based utility that allows you to easily manage y
 
 It provides a convenient interface to:
 
-- ✅ Start, Stop, and Restart the `webui-user.bat`
+- ✅ Start, Stop, and Restart the `run.bat/webui-user.bat`
 - ✅ Automatically monitor Forge-related processes (CMD and Python)
 - ✅ Display current **RAM and VRAM usage**
 - ✅ Minimize to System Tray and restore
