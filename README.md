@@ -1,8 +1,3 @@
-Danke! Basierend auf dem **Forge Launcher v1.8** Code hier ist eine vollständige, gut strukturierte `README.md`, die du direkt in dein Repository einfügen kannst:
-
----
-
-```markdown
 # 🔥 Forge Launcher v1.8 – designed by LordKa
 
 ![Forge Launcher Screenshot](screenshots\mainscreen.png)  
